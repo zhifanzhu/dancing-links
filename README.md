@@ -3,6 +3,14 @@
 - Exact Cover
 - Langford Pairs
 
+# TODO
+
+- exercise 3: MRV heuristic
+- Progress Report. Q: how to measure memory access?
+- Langford Pairs factor 2
+- Queens by secondary
+- Sudoku
+
 
 # Exercise 8
 
